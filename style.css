@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(39, 38, 38);
+    align-items: center;
+    
+}
+
+h1{
+
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    left: 20px;
+    font-size: xx-large;
+}
+
+.image{
+
+    margin-left: 36%;
+    fill: 100%;
+}
